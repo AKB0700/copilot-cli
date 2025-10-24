@@ -1,0 +1,5 @@
+# Nothing is copied in the current Dockerfile, but this is useful if you later add COPY instructions.
+.git
+.gitignore
+node_modules
+Dockerfile
